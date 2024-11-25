@@ -494,7 +494,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 flex-direction: row;
-gap: 16px;
+
 border-radius: 4px;
 padding: 8px 24px;
 min-width: 165px;
@@ -528,9 +528,7 @@ color: #fff;
 .subscribe-button:focus {
     background-color: #31D0AA;
 }
-
     /*Backdrop*/
-
    
 .backdrop {
     position: fixed;
